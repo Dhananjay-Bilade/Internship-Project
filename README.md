@@ -17,23 +17,24 @@ A Python-based Job Analytics Tool developed during my internship.
 - Matplotlib
 - Seaborn
 
-## Project Stack│
-├── Job_Analytics_Tool
-│   ├── main.py
-│   ├── analysis.py
-│   ├── preprocessing.py
-│   ├── visualization.py
-│   └── dataset.csv
-│
-├── Documentation
-│   └── Job_Analytics_Tool_Documentation.docx
-│
-├── Presentation
-│   └── Job_Analytics_Tool_PPT.pptx
-│
-├── Screenshots
-│   ├── Charts_and_Graphs visuals.docs
-|
+## Project Stack
+
+# Code material
+  - main.py
+  - analysis.py
+  - preprocessing.py
+  - visualization.py
+  - dataset.csv
+
+# Documentation
+  - Job_Analytics_Tool_Documentation.docx
+
+# Presentation
+  - Job_Analytics_Tool_PPT.pptx
+
+# Screenshots
+  - Charts_and_Graphs visuals.docs
+
 
 ## Visualizations
 - Salary Distribution
