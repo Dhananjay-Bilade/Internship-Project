@@ -19,20 +19,20 @@ A Python-based Job Analytics Tool developed during my internship.
 
 ## Project Stack
 
-# Code material
+### Code material
   - main.py
   - analysis.py
   - preprocessing.py
   - visualization.py
   - dataset.csv
 
-# Documentation
+### Documentation
   - Job_Analytics_Tool_Documentation.docx
 
-# Presentation
+### Presentation
   - Job_Analytics_Tool_PPT.pptx
 
-# Screenshots
+### Screenshots
   - Charts_and_Graphs visuals.docs
 
 
